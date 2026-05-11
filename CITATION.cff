@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Mechanical Engineering"
+abstract: "A curated list of tools, research papers, software, educational resources, standards, datasets, and references related to mechanical engineering and applied engineering systems."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-mechanical-engineering"
+keywords:
+  - mechanical engineering
+  - engineering
+  - thermodynamics
+  - fluid mechanics
+  - manufacturing
+  - CAD
+  - finite element analysis
+  - robotics
+  - materials science
+  - engineering design
+  - awesome list

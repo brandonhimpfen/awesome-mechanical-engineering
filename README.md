@@ -37,6 +37,7 @@
 - **[Fusion 360](https://www.autodesk.com/products/fusion-360/overview)** - A cloud-based CAD/CAM/CAE tool for collaborative design.
 - **[Creo](https://www.ptc.com/en/products/creo)** - A comprehensive CAD solution for parametric modeling.
 - **[Onshape](https://www.onshape.com/)** - A cloud-native CAD platform for collaborative design.
+- **[Prompt2CAD](https://prompt2cad.com/)** - A browser-based AI CAD workspace for turning text prompts into dimensioned parts, fixtures, furniture, and prototypes with STEP, DXF, STL, OBJ, and GLB export.
 
 ## Simulation and Analysis
 

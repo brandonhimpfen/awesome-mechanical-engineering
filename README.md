@@ -61,6 +61,7 @@
 - **[Siemens NX](https://www.plm.automation.siemens.com/global/en/products/nx/)** - A tool for integrated design and manufacturing.
 - **[CNC Simulator Pro](https://cncsimulator.com/)** - A CNC machine simulation software.
 - **[RobotStudio](https://new.abb.com/products/robotics/robotstudio)** - A tool for robot programming and manufacturing simulation.
+- **[CuttingToolsAI](https://cuttingtoolsai.eu/)** - A brand-neutral AI advisor for selecting and cross-referencing metal cutting tools across brands, with a free ISO 1832 insert code decoder.
 
 ## Robotics and Mechatronics
 

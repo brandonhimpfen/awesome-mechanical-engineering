@@ -25,10 +25,7 @@
 - [License](#license)
 
 ## General Resources
-
-- **[What is Mechanical Engineering?](https://en.wikipedia.org/wiki/Mechanical_engineering)** - An overview of the field and its subdisciplines.
-- **[ASME (American Society of Mechanical Engineers)](https://www.asme.org/)** - Resources, standards, and journals for mechanical engineers.
-- **[Engineering Toolbox](https://www.engineeringtoolbox.com/)** - Handy tools and references for mechanical engineers.
+- **[MetalAbout](https://www.metalabout.net)** - Free online engineering calculators for metalworking (metal weight, beam deflection, press brake tonnage, welding cost) plus a browser-based STL/DXF viewer. No signup.
 
 ## CAD (Computer-Aided Design)
 

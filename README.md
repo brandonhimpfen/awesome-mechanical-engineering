@@ -92,6 +92,7 @@
 - **[MIT OpenCourseWare: Mechanical Engineering](https://ocw.mit.edu/courses/mechanical-engineering/)** - Free courses covering a wide range of mechanical engineering topics.
 - **[NPTEL Mechanical Engineering Courses](https://nptel.ac.in/course.html)** - Online courses from Indian Institutes of Technology (IITs).
 - **[Khan Academy: Engineering](https://www.khanacademy.org/)** - Free lessons on engineering fundamentals.
+- **[HVAC School Guide — Cost vs Metro Pay (2026)](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay)** - Free months-to-recoup table for HVAC training cost vs metro pay (BLS OEWS); useful for ME students considering HVAC careers.
 - **[YouTube Channels](https://www.youtube.com/)** - Channels like Practical Engineering and Real Engineering for engaging content.
 - **[Books on Mechanical Engineering](https://www.goodreads.com/)** - Popular books like *Shigley's Mechanical Engineering Design*.
 

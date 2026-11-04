@@ -86,6 +86,7 @@
 - **[ParaView](https://www.paraview.org/)** - Open-source data analysis and visualization software.
 - **[Calculix](http://www.calculix.de/)** - An open-source FEA software for structural analysis.
 - **[KiCAD](https://kicad.org/)** - An open-source tool for designing electronic circuits in mechatronics.
+- **[engineering-tables](https://github.com/davidmashiah/engineering-tables)** - A tested JavaScript library for steam tables (IAPWS-IF97), statistical tables and unit conversion.
 
 ## Educational Resources
 

@@ -78,6 +78,7 @@
 - **[EnergyPlus](https://energyplus.net/)** - A simulation tool for energy systems in buildings.
 - **[TRNSYS](http://www.trnsys.com/)** - A flexible software for simulating energy systems.
 - **[HeatCAD](https://www.heatcad.com/)** - A tool for designing and simulating HVAC systems.
+- **[OpenFLUME](https://github.com/OpenFLUME/OpenFLUME)** - An open-source thermo-fluid network solver for steady and transient pipe flow and heat transfer, usable from a no-install browser UI or from Python (`pip install openflume`).
 
 ## Open-Source Tools
 

@@ -95,6 +95,7 @@
 - **[Khan Academy: Engineering](https://www.khanacademy.org/)** - Free lessons on engineering fundamentals.
 - **[YouTube Channels](https://www.youtube.com/)** - Channels like Practical Engineering and Real Engineering for engaging content.
 - **[Books on Mechanical Engineering](https://www.goodreads.com/)** - Popular books like *Shigley's Mechanical Engineering Design*.
+- **[SolidCraft CAD](https://solidcraftcad.com/)** - Guide to SolidCraft, an open-source parametric 3D CAD app in Rust (browser + desktop + MCP).
 
 ## Community and Forums
 
